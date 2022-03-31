@@ -1,0 +1,9 @@
+.mobile {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 3754px;
+  overflow: hidden;
+  width: 390px;
+}
+

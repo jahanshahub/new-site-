@@ -1,0 +1,19 @@
+:root { 
+  --black: #000000;
+  --black-2: #0000008a;
+  --electric-violet: #bc00ff3b;
+  --light-background: #ffffff;
+  --light-text: #ffffff;
+ 
+  --font-size-24px: 24px;
+  --font-size-m: 36px;
+  --font-size-s: 30px;
+  --font-size-xs: 25px;
+  --font-size-xxs: 23px;
+  --font-size-xxxs: 22px;
+  --font-size-xxxxs: 19px;
+  --font-size-xxxxxs: 16px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-montserrat: "Montserrat", Helvetica;
+}

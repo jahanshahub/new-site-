@@ -1,0 +1,9 @@
+.desktop-navbar {
+  align-items: flex-start;
+  background-color: var(--electric-violet);
+  display: flex;
+  height: 91px;
+  padding: 0 40px;
+  width: 1018px;
+}
+

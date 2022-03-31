@@ -1,0 +1,8 @@
+.iphone-13-13-pro-1 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  overflow: hidden;
+  width: 390px;
+}
+
